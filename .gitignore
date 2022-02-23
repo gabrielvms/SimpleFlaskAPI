@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+
+Simpleflaskapi_serviceAcc_Key.json
